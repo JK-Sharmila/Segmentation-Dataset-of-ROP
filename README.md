@@ -15,7 +15,7 @@ This repository features a dataset for segmenting images of Retinopathy of Prema
 
 ![IMG-20240928-WA0021](https://github.com/user-attachments/assets/0ff609bc-09e2-4cf2-8d3c-d742dad9224b)
 
-  (Fig: Original Fundus Image and its corresponding annotated anomaly image)
+  (Fig: Original Fundus Image and its corresponding annotated anomaly label map)
 
 
 **Folder Structure:**
