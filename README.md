@@ -15,17 +15,8 @@ This repository contains a dataset for the segmentation of Retinopathy of Premat
 
 Folder Structure:
 
- Segmentation-Dataset-of-ROP/
- │
- ├── Original/
- │   ├── Stage 1/
- │   ├── Stage 2/
- │   └── Stage 3/
- │
- └── Annotated/
-     ├── Stage 1/
-     ├── Stage 2/
-     └── Stage 3/
+![image](https://github.com/user-attachments/assets/3a30382c-87e0-43fc-984f-ed5ba1acd850)
+
 
 **Note**
 The dataset is currently under construction.
