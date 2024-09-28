@@ -10,6 +10,7 @@ for training artificial intelligence models.
 
 
 **Segmentation Dataset of ROP** (Under Development)
+
 This repository contains a dataset for the segmentation of Retinopathy of Prematurity (ROP) images, aimed at facilitating early diagnosis and reducing the prevalence of ROP through improved detection methods.
 
 Folder Structure:
